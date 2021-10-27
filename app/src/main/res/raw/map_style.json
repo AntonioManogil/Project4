@@ -1,0 +1,11 @@
+[
+  {
+    "featureType": "administrative.neighborhood",
+    "elementType": "geometry.fill",
+    "stylers": [
+      {
+        "color": "#80ff00"
+      }
+    ]
+  }
+]
